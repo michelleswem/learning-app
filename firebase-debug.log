@@ -1,0 +1,29 @@
+[debug] [2023-08-29T07:31:05.424Z] ----------------------------------------------------------------------
+[debug] [2023-08-29T07:31:05.425Z] Command:       /Users/michelleswem/.nvm/versions/node/v16.19.0/bin/node /Users/michelleswem/.nvm/versions/node/v14.17.0/bin/firebase init
+[debug] [2023-08-29T07:31:05.426Z] CLI Version:   12.5.2
+[debug] [2023-08-29T07:31:05.426Z] Platform:      darwin
+[debug] [2023-08-29T07:31:05.426Z] Node Version:  v16.19.0
+[debug] [2023-08-29T07:31:05.426Z] Time:          Tue Aug 29 2023 08:31:05 GMT+0100 (West Africa Standard Time)
+[debug] [2023-08-29T07:31:05.427Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-29T07:31:05.429Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-08-29T07:31:05.429Z] > authorizing via signed-in user (swemmichelle990@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/michelleswem/Downloads/http-01-starting-setup
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 

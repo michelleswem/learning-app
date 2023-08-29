@@ -61,9 +61,8 @@ export default {
           this.results = results;
         })
         .catch((err) => {
-          console.log(err);
           this.isLoading = false;
-          this.error = 'Failed to fetch data. please try again later';
+          this.error = 'Failed to fetch data. please try again later' || err;
         });
     },
   },
